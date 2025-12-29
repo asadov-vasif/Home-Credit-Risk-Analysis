@@ -16,3 +16,5 @@ A key innovation in this workflow is the handling of high-cardinality categorica
 ### 🗄️ SQL Analysis
 * [DuckDB SQL Analysis](SQL%20queries/duckdb_sql_analysis.html)
 * [Feature Engineering with DuckDB SQL](SQL%20queries/duckdb_feature_engineering.html)
+
+<a href = "https://github.com/asadov-vasif/Home-Credit-Risk-Analysis"> Click to go to Github Repository </a>
