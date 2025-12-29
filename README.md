@@ -1,4 +1,3 @@
-HTML Link for the project: https://asadov-vasif.github.io/Home-Credit-Risk-Analysis/
 
 [Click to go to html page of the project](https://asadov-vasif.github.io/Home-Credit-Risk-Analysis/)
 
