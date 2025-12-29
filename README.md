@@ -1,5 +1,9 @@
 HTML Link for the project: https://asadov-vasif.github.io/Home-Credit-Risk-Analysis/
 
+[Click to go to html page of the project](https://asadov-vasif.github.io/Home-Credit-Risk-Analysis/)
+
+[Click to go back to Github Repository](https://github.com/asadov-vasif/Home-Credit-Risk-Analysis)
+
 ### Project Comprehensive Summary
 
 **Data Processing & Feature Engineering Pipeline**
@@ -17,4 +21,4 @@ A key innovation in this workflow is the handling of high-cardinality categorica
 * [DuckDB SQL Analysis](SQL%20queries/duckdb_sql_analysis.html)
 * [Feature Engineering with DuckDB SQL](SQL%20queries/duckdb_feature_engineering.html)
 
-[Click to go back to Github Repository](https://github.com/asadov-vasif/Home-Credit-Risk-Analysis)
+
